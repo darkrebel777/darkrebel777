@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking and cracking.
 - 🌱 I’m currently learning bash.
 - 💞️ I’m looking to collaborate on programing.
-- 📫 How to reach me telegram.
+- 📫 telegram @Dark_Rebell
 
 <!---
 darkrebel777/darkrebel777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
